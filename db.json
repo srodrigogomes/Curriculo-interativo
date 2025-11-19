@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "name": "Seu Nome Completo",
+    "bio": "Desenvolvedor Full-Stack focado em interfaces futuristas e otimização de performance. Transformando código em experiências imersivas.",
+    "links": {
+      "github": "https://github.com/seuusuario",
+      "linkedin": "https://linkedin.com/in/seuusuario",
+      "twitter": "https://twitter.com/seuusuario"
+    },
+    "profileImagePath": "/uploads/perfil/default.png",
+    "resumePath": ""
+  },
+  "certificates": [
+    {
+      "id": "1",
+      "name": "Curso Avançado de Glassmorphism",
+      "platform": "Design Academy",
+      "date": "2024-03-15",
+      "category": "Design/UI",
+      "pdfPath": "/uploads/certificados/glassmorphism_cert.pdf",
+      "thumbPath": "/uploads/thumbs/glassmorphism_thumb.png"
+    }
+  ],
+  "publications": [
+    {
+      "id": "2",
+      "name": "Artigo: O Futuro das UIs Modais",
+      "type": "artigo",
+      "year": 2023,
+      "summary": "Uma análise profunda sobre a evolução e implementação de modais imersivos em aplicações modernas.",
+      "filePath": "/uploads/publicacoes/artigo_futuro_uis.pdf"
+    }
+  ],
+  "user": {
+    "username": "admin",
+    "passwordHash": "$2b$10$w09u7z/u.TzM6O.k9F.P4.u2Xj0W.qO0W7RzY.KzS2U6A/t1G5DqK" 
+    // Senha padrão 'senha123' (já hasheada)
+  }
+}
